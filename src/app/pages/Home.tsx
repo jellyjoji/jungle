@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import { Sparkles, Code, Zap } from "lucide-react";
-import logoImage from "figma:asset/c27d4605dc11bbd0b08b8e39a0bb6e92b40c41e1.png";
+import logoImage from "../../assets/logo.png";
 
 export function Home() {
   const values = [
